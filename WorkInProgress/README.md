@@ -25,6 +25,9 @@ Otimizando o Sistema Bancário com Funções Python
 
 
 
+- [Apresentação do Desafio - Otimizando o Sistema Bancário com Funções Python](https://web.dio.me/lab/otimizando-o-sistema-bancario-com-funcoes-python/learning/82a55799-cfb8-479d-85a3-4982e29c90ba)
+- [Resolução do Desafio - Otimizando o Sistema Bancário com Funções Python](https://web.dio.me/lab/otimizando-o-sistema-bancario-com-funcoes-python/learning/282ebc6d-0854-4af3-b6ac-adbb78c543da)
+
 
 
 normal
